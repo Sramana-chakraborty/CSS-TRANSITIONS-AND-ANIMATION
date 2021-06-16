@@ -40,7 +40,7 @@ nav {
   font-weight: bold;
   color: #142033;
     transition: 
-             left 500ms ease-out 450ms;
+             left 500ms ease-in 450ms;
            
 }
 
